@@ -1,2 +1,4 @@
 a="Hello World"
-print(a)
+b="Welcome to python programming"
+c=a+b
+print(c)
